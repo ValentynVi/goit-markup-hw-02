@@ -53,11 +53,11 @@ body {
   text-transform: uppercase
 }
 
-.header-nav-logo span {
+.logo-span {
   color: #2e2f42;
 }
 
-.footer-logo span {
+.footer-span {
     color: #f4f4fd;
 }
 
