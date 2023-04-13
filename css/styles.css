@@ -116,13 +116,12 @@ body {
 
 /**
   |============================
-  | FEATURES ABOUT EMPLOYEE STYLE
+  | FEATURES ABOUT EMPLOYEE STYLE PORTFOLIO
   |============================
 */
 .features-title,
 .about-title,
-.employee-title,
-.portfolio-title {
+.employee-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -130,8 +129,7 @@ body {
 }
 
 .features-list .title,
-.employee-img-list .title,
-.portfolio-img-list .title {
+.employee-img-list .title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -166,7 +164,19 @@ body {
   color: #ffffff;
 }
 
+.portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+}
 
+.portfolio-img-list .title {
+  color: var(--primary-text-color);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
 
 
 
