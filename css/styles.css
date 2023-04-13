@@ -31,9 +31,10 @@ body {
 }
 
 .text {
-  color: var(--secondary-text-color);
+  color: var(--primary-text-color);
   font-size: 16px;
   line-height: 1.5;
+  font-style: normal 
 }
 
 /* INDEX PAGE */
@@ -68,8 +69,7 @@ body {
   |============================
 */
 .header-nav-list .link {
-  color: var(--primary-text-color);
-  font-style: normal;
+  color: var(--secondary-text-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
