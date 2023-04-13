@@ -30,8 +30,13 @@ body {
   text-decoration: none;
 }
 
+.title {
+  color: var(--secondary-text-color);
+  letter-spacing: 0.02em;
+}
+
 .text {
-  color: var(--primary-text-color);
+  /* color: var(--primary-text-color); */
   font-size: 16px;
   line-height: 1.5;
 }
@@ -129,22 +134,22 @@ body {
 .features-title,
 .about-title,
 .employee-title {
-  color: var(--secondary-text-color);
+  /* color: var(--secondary-text-color); */
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 0.02em;
+  /* letter-spacing: 0.02em; */
   text-transform: capitalize;
 }
 
 .features-list .title,
 .employee-list .title { 
-  color: var(--secondary-text-color);
+  /* color: var(--secondary-text-color); */
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
+  /* letter-spacing: 0.02em; */
 }
 
 .employee {
@@ -188,11 +193,11 @@ body {
 }
 
 .portfolio-img-list .title {
-  color: var(--secondary-text-color);
+  /* color: var(--secondary-text-color); */
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
+  /* letter-spacing: 0.02em; */
 }
 
 
