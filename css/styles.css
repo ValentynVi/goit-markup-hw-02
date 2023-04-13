@@ -81,7 +81,7 @@ body {
   color: var(--primery-accent-color);
 }
 
-.header-address-list {
+.header-address-list .link {
   font-style: normal;
 }
 
