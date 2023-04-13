@@ -164,7 +164,7 @@ body {
 
 /* PORTFOLIO-PAGE */
 .portfolio-button {
-  color: var(--secondary-accent-color);
+  color: var(--third-background-color);
   font-family: inherit;
   letter-spacing: 0.04em;
   font-weight: 500;
