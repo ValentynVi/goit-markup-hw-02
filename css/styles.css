@@ -86,14 +86,13 @@ body {
   color: var(--primery-accent-color);
 }
 
-/* I DONT KNOW WHAT I MUST TO DO */
 .header-address {
   font-style: normal;
 }
 
 /**
   |============================
-  | HERO STLE
+  | HERO STYLE
   |============================
 */
 .hero {
@@ -127,7 +126,7 @@ body {
 
 /**
   |============================
-  | FEATURES ABOUT EMPLOYEE STYLE PORTFOLIO
+  | FEATURES ABOUT EMPLOYEE STYLE 
   |============================
 */
 
@@ -156,7 +155,11 @@ body {
   background-color: #ffffff;
 }
 
-/* footer */
+/**
+  |============================
+  | FOOTER STYLE
+  |============================
+*/
 .footer {
   background-color: var(--secondary-background-color);
   color: var(--third-text-color);
@@ -164,6 +167,11 @@ body {
 
 
 /* PORTFOLIO-PAGE */
+/**
+  |============================
+  | PORTFOLIO BUTTON STYLE
+  |============================
+*/
 .portfolio-button {
   background-color: var(--third-background-color);
   color: var(--secondary-accent-color);
@@ -181,6 +189,12 @@ body {
   color: #ffffff;
 }
 
+
+/**
+  |============================
+  | PORTFOLIO STYLE
+  |============================
+*/
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
