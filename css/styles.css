@@ -188,10 +188,11 @@ body {
 }
 
 .portfolio-img-list .title {
-  color: var(--primary-text-color);
+  color: var(--secondary-text-color);
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 
