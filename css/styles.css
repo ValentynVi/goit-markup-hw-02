@@ -139,7 +139,7 @@ body {
 }
 
 .features-list .title,
-.employee-img-list .title { 
+.employee-list .title { 
   color: var(--secondary-text-color);
   font-weight: 500;
   font-size: 20px;
@@ -147,6 +147,14 @@ body {
   letter-spacing: 0.02em;
 }
 
+.employee-list .title { 
+  background-color: #ffffff;
+  color: var(--secondary-text-color);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
 
 .employee {
   background-color: var(--third-background-color);
