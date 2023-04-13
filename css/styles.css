@@ -34,7 +34,6 @@ body {
   color: var(--primary-text-color);
   font-size: 16px;
   line-height: 1.5;
-  font-style: normal;
 }
 
 /* INDEX PAGE */
@@ -82,6 +81,9 @@ body {
   color: var(--primery-accent-color);
 }
 
+.header-address-list {
+  font-style: normal;
+}
 
 /**
   |============================
